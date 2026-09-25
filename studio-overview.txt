@@ -1,0 +1,8 @@
+SIGNAL STUDIO
+
+A fictional small business website for GTM, GA4, and Google Ads practice.
+
+Pages: Home, Services, About, Contact.
+Actions: navigation links, calls to action, service selections, file download, external link, phone reveal, contact form.
+
+No message is actually sent. Form details are never stored or added to dataLayer.
